@@ -1,8 +1,10 @@
-
 const Buttons = () => {
   return (
-    <div>buttons</div>
-  )
-}
+    <div>
+      <h1>hi</h1>
+      buttons
+    </div>
+  );
+};
 
-export default Buttons
+export default Buttons;
