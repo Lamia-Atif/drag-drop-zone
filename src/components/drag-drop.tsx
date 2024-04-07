@@ -1,7 +1,10 @@
 
 const DragDrop = () => {
   return (
-    <div></div>
+    <div>
+        <h1>Drag and Drop</h1>
+        <button>Upload</button>
+    </div>
   )
 }
 
